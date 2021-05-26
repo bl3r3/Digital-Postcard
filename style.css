@@ -5,6 +5,8 @@
 
 body{
     font-family: Poppins;
+    color: white;
+    background-color:rgba(0, 0, 0, 0.664)
 }
 
 .conatiner{
@@ -22,6 +24,8 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border: 1px solid white;
+    border-radius:30px;
 }
 
 .heading {
